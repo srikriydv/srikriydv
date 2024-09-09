@@ -1,6 +1,6 @@
 ## Hey👋, I'm Shree Krishna Yadav
 
-Computer engineer and full-stack developer actively learning DevOps to enhance automation and efficiency. I love solving problems and learning a lot in the process. I thrive on tackling complex problems and gaining deep insights through the learning process.
+Computer Engineer focused on full-stack development with React and Django, exploring DevOps for automation and efficiency. I love solving problems and learning a lot in the process. I thrive on tackling complex problems and gaining deep insights through the learning process.
 
 - 🔭 I’m currently exploring new opportunities in **full-stack development**, focusing on **React and Django**.
 - 🌱 I’m learning more about **DevOps** and expanding my skills in web development.
