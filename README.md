@@ -9,11 +9,13 @@ Computer engineer and full-stack developer actively learning DevOps to enhance a
  
 <div>
   <h3>My GitHub Stats</h3>
-  ![srikriydv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srikriydv&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)</br>
-    ![srikriydv's Stats](https://github-readme-stats.vercel.app/api?username=srikriydv&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br>
-    ![srikriydv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=srikriydv&theme=tokyonight&hide_border=true)</br>
-    
+    <a href="https://github.com/srikriydv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikriydv&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%5%Languages&layout=compact" alt="Top Languages" /></a><br>
+    <a href="http://www.github.com/srikriydv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srikriydv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></br>
+    <a href="http://www.github.com/srikriydv"><img src="https://github-readme-stats.vercel.app/api?username=srikriydv&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="srikriydv's GitHub stats" /></a>
   </div>
+  
 ### Connect with me 🤝
-<a href="https://www.linkedin.com/in/srikriydv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srikriydv" height="30" width="40" /></a>
 
+<p align="left">
+<a href="https://linkedin.com/in/srikriydv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srikriydv" height="30" width="40" /></a>
+</p>
